@@ -1,2 +1,4 @@
-# IMU-human-gait-classification
-human gait classification model
+# README
+
+`/tool_codes/` 에 담긴 디렉토리가 실질적인 파이프라인 코드입니다.
+이외에 프로젝트 루트에 놓인 코드는 실제 실행에 사용했던 예제이므로 참고만 해주세요.
