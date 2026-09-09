@@ -1,0 +1,12 @@
+# VSCode
+.vscode
+
+# Local data
+/model_logs
+/model_markdown
+/pp_grid_search_results
+/grid_search_results
+/saved_models
+/single_run_results
+/temp
+/documents
